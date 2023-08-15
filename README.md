@@ -38,6 +38,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/c73d1858-768a-42e5-94a0-b22ee66af190)
 ![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/c3be2af8-dd53-4c81-8c40-4da7969366cc)
 ![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/061b7fe4-3e7f-4ee2-9595-9d45dd00d10b)
+![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/c228d4c1-64ca-472c-a952-642a3ccecd71)
 
 
 
