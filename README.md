@@ -28,12 +28,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-- Played the role of an admin and created agents and assigned them to departments. Also created SLA's ![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/137a94a0-d28f-4ee3-9ae9-dbe0dfe41362)
-![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/9d8624c1-6996-4e46-94ed-85e3a103d720)
-![image](https://github.com/terranceharris1/osticket-prereqs/assets/142275089/aaada510-a475-41fa-b2f6-524cd09a39aa)
-- Created different ticket scenarios and resolved,closed,and transferred them.![LogintopcTicket](https://github.com/terranceharris1/post-install-config/assets/142275089/02970d6d-9f11-4438-af29-1992556a368a)
-![LogintopcTicket2](https://github.com/terranceharris1/post-install-config/assets/142275089/77217276-d849-4f7f-9352-01ce5579df4e)
-![TransferTicket](https://github.com/terranceharris1/post-install-config/assets/142275089/bed5390a-d442-4656-876b-1726065c8e38)
+Played the role of a system admin and created users/assigned them to departments and teams. 
+
+
+
+
 
 
 
