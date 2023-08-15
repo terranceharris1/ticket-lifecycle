@@ -28,7 +28,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-Played the role of a system admin and created users/assigned them to departments and teams. 
+- Played the role of a system admin and created users/assigned them to departments and teams.
+![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/8b30c9e4-cafe-4265-a34d-86d9315b7c71)
+![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/8c35c099-42fc-4532-83a4-55fbc8afa14c)
+- Played the role as an enduser and created tickets with different scenarios 
+![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/babc8e8d-5cd5-4bdd-97ac-686e3a6d7daf)
+![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/365a1031-c172-4d3e-b2b9-27e34fa4f2a5)
+- Changed the priority of tickets, transferred to different departments, replied, and resolved tickets. 
+![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/c73d1858-768a-42e5-94a0-b22ee66af190)
+![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/c3be2af8-dd53-4c81-8c40-4da7969366cc)
+![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/061b7fe4-3e7f-4ee2-9595-9d45dd00d10b)
 
 
 
@@ -38,26 +47,11 @@ Played the role of a system admin and created users/assigned them to departments
 
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+
+
+
+
 <br />
