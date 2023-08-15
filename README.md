@@ -5,11 +5,6 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -29,7 +24,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 - Played the role of a system admin and created users/assigned them to departments and teams.
-![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/8b30c9e4-cafe-4265-a34d-86d9315b7c71)
+![260827332-8b30c9e4-cafe-4265-a34d-86d9315b7c71](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/f1f978f4-1c44-427c-9637-5df37993576f)
+
 ![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/8c35c099-42fc-4532-83a4-55fbc8afa14c)
 - Played the role as an enduser and created tickets with different scenarios 
 ![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/babc8e8d-5cd5-4bdd-97ac-686e3a6d7daf)
