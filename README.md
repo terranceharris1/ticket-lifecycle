@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 - Played the role of a system admin and created users/assigned them to departments and teams.
-![260827332-8b30c9e4-cafe-4265-a34d-86d9315b7c71](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/f1f978f4-1c44-427c-9637-5df37993576f)
+![260827332-8b30c9e4-cafe-4265-a34d-86d9315b7c71]
 
 ![image](https://github.com/terranceharris1/ticket-lifecycle/assets/142275089/8c35c099-42fc-4532-83a4-55fbc8afa14c)
 - Played the role as an enduser and created tickets with different scenarios 
