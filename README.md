@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+In this lab I played the role of a system administrator & a Help Desk supporter. I took on the responsibility of efficiently managing user roles, departments, and tickets using osTicket. This involved creating agents and users, assigning them to specific departments, and utilizing the help desk system to address various scenarios by creating and resolving tickets.Once the user roles and departments were in place, I dived into the process of managing tickets. I initiated this by simulating different scenarios that would require assistance, guidance, or technical support. For instance, I created sample tickets to mirror common user queries like software issues, account access problems, and general inquiries. <br />
 
 <h2>Environments and Technologies Used</h2>
 
